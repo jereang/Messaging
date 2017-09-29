@@ -1,0 +1,5 @@
+-std=c++11
+-DDEBUG
+-Iinclude/
+-I./
+-isystem
